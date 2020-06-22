@@ -110,4 +110,5 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   mirrorResolution: 0
+  maximumAntialiasing: 4
   customShader: {fileID: 0}
