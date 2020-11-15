@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 5614898196339104407}
   - component: {fileID: 6442703543974188221}
   - component: {fileID: 2186435289658712573}
-  - component: {fileID: 6746753100732100998}
   m_Layer: 0
   m_Name: Pole_Corner_A
   m_TagString: Untagged
@@ -91,8 +90,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.4397894, y: 1.3246568, z: 0.24198449}
-  m_Center: {x: -0.10182375, y: 0.6431528, z: 0}
+  m_Size: {x: 0.4131283, y: 1.3246568, z: 0.24198449}
+  m_Center: {x: -0.08849318, y: 0.6431528, z: 0}
 --- !u!65 &2186435289658712573
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -104,18 +103,5 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.3194858, y: 0.45509553, z: 0.24198449}
-  m_Center: {x: -0.54167193, y: 1.0779334, z: 0}
---- !u!65 &6746753100732100998
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5614898196341097559}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.669418, y: 0.6709988, z: 0.19128567}
-  m_Center: {x: -0.21663803, y: 0.9699818, z: 0}
+  m_Size: {x: 1.3194858, y: 0.40614533, z: 0.24198449}
+  m_Center: {x: -0.54167193, y: 1.1024085, z: 0}
